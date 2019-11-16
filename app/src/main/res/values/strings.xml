@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">JSONParsing</string>
+    <string name="mobile">Mobile</string>
+    <string name="email">Email</string>
+</resources>
